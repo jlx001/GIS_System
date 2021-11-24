@@ -1,0 +1,6 @@
+G:\chp06\空间数据编辑\code\GISEditor.EditTool\bin\Release\GISEditor.EditTool.dll
+G:\chp06\空间数据编辑\code\GISEditor.EditTool\bin\Release\GISEditor.EditTool.pdb
+G:\chp06\空间数据编辑\code\GISEditor.EditTool\obj\Release\ResolveAssemblyReference.cache
+G:\chp06\空间数据编辑\code\GISEditor.EditTool\obj\Release\GISEditor.EditTool.Tool.UC.frmAttributeEdit.resources
+G:\chp06\空间数据编辑\code\GISEditor.EditTool\obj\Release\GISEditor.EditTool.dll
+G:\chp06\空间数据编辑\code\GISEditor.EditTool\obj\Release\GISEditor.EditTool.pdb
